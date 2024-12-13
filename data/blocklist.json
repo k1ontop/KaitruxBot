@@ -1,0 +1,12 @@
+{
+  "blockedInteractions": [
+    {
+      "blockedBy": "ID_de_usuario_A",
+      "blockedUser": "ID_de_usuario_B"
+    },
+    {
+      "blockedBy": "1008593908571312128",
+      "blockedUser": "500658624109084682"
+    }
+  ]
+}
