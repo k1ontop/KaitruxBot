@@ -1,0 +1,21 @@
+{
+    "server_id_1": {
+        "channelID": "1206284142959132673",
+        "welcomeMessage": "¡Bienvenido/a {user} a {server}!",
+        "font": "Sans-serif",
+        "backgroundColor": "#ffffff",
+        "textColor": "#000000",
+        "borderColor": "#ff0000",
+        "avatarBorderColor": "#ff0000",
+        "messageFontSize": 48,
+        "textFontSize": 30,
+        "imageOverlayColor": "rgba(0,0,0,0.5)",
+        "blur": 5
+    },
+    "server_id_2": {},
+    "1244370702803538050": {
+        "channelID": "1300442491878768650",
+        "welcomeMessage": "Hello!",
+        "backgroundColor": "#ff0000"
+    }
+}
